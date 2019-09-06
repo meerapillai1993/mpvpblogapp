@@ -25,7 +25,7 @@ SECRET_KEY = 'cf6%$@=&mfuv1=qzj8y6qn5^c$i^wvlzw2px^*i&xmxuvxu56y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['meera.pythonanyhere.com','127.0.0.1']
 
 
 # Application definition

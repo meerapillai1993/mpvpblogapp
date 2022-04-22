@@ -1,7 +1,7 @@
 beautifulsoup4==4.8.0
 certifi==2019.6.16
 chardet==3.0.4
-Django==2.2.4
+Django==2.2.28
 get==2019.4.13
 idna==2.8
 Pillow==6.1.0
@@ -19,7 +19,7 @@ urllib3==1.25.3
 virtualenv==16.7.3
 virtualenv-clone==0.5.3
 dj-database-url==0.5.0
-Django==2.2.4
+Django==2.2.28
 gunicorn==19.9.0
 psycopg2-binary==2.8.3
 pytz==2019.2
